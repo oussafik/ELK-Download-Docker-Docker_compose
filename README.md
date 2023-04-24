@@ -1,4 +1,6 @@
-﻿# ELK download on ubuntu 22.04 using Docker and Docker Compose
+# ELK download on ubuntu 22.04 using Docker and Docker Compose
+![alt text](https://miro.medium.com/v2/resize:fit:1200/1*N2dD5ZFzLsFXUMXQQkYFrA.png)
+
 Using Docker and Docker Compose to download Elasticsearch and Kibana has several benefits:
 
 - Easy installation: Docker makes it easy to install and run applications, including Elasticsearch and Kibana. With Docker, you don't need to worry about installing the correct version of Java or setting up other dependencies.
