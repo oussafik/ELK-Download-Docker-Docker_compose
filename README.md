@@ -139,4 +139,5 @@ To check Logstash service health, run the following command.
 Enable your new service on boot up and start it.
 
 `$ sudo systemctl enable logstash`
+
 `$ sudo systemctl start logstash`
